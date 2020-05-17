@@ -14,6 +14,6 @@ int main() {
         max=a[i];
         
     }
-	cout<<"Largest is "<<max<<"Smallest is "<<min<<endl;
+	cout<<"Largest is "<<max<<" Smallest is "<<min<<endl;
 	return 0;
 }
